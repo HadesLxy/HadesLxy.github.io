@@ -3,11 +3,11 @@
   <title>小一の博客</title>
   
   <subtitle>记录生活中的点点滴滴</subtitle>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://www.hadesyi.vip/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.hadesyi.vip/"/>
   <updated>2020-08-27T04:07:30.968Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.hadesyi.vip/</id>
   
   <author>
     <name>HadesYi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo博客搭建</title>
-    <link href="http://yoursite.com/2020/08/27/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    <id>http://yoursite.com/2020/08/27/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <link href="http://www.hadesyi.vip/2020/08/27/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>http://www.hadesyi.vip/2020/08/27/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
     <published>2020-08-27T03:58:33.000Z</published>
     <updated>2020-08-27T04:07:30.968Z</updated>
     
@@ -33,23 +33,23 @@
     
     
     
-    <category term="hexo博客" scheme="http://yoursite.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="hexo博客" scheme="http://www.hadesyi.vip/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="导航" scheme="http://yoursite.com/tags/%E5%AF%BC%E8%88%AA/"/>
+    <category term="导航" scheme="http://www.hadesyi.vip/tags/%E5%AF%BC%E8%88%AA/"/>
     
-    <category term="分享" scheme="http://yoursite.com/tags/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="http://www.hadesyi.vip/tags/%E5%88%86%E4%BA%AB/"/>
     
-    <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://www.hadesyi.vip/tags/Markdown/"/>
     
-    <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    <category term="hexo" scheme="http://www.hadesyi.vip/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>我的第一篇博客文章</title>
-    <link href="http://yoursite.com/2020/08/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2020/08/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+    <link href="http://www.hadesyi.vip/2020/08/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <id>http://www.hadesyi.vip/2020/08/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
     <published>2020-08-26T03:06:37.000Z</published>
     <updated>2020-08-27T02:40:17.485Z</updated>
     
@@ -63,16 +63,16 @@
     
     
     
-    <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="http://www.hadesyi.vip/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="导航" scheme="http://yoursite.com/tags/%E5%AF%BC%E8%88%AA/"/>
+    <category term="导航" scheme="http://www.hadesyi.vip/tags/%E5%AF%BC%E8%88%AA/"/>
     
-    <category term="分享" scheme="http://yoursite.com/tags/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="http://www.hadesyi.vip/tags/%E5%88%86%E4%BA%AB/"/>
     
-    <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://www.hadesyi.vip/tags/Markdown/"/>
     
-    <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    <category term="hexo" scheme="http://www.hadesyi.vip/tags/hexo/"/>
     
   </entry>
   
